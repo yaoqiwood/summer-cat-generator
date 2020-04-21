@@ -23,4 +23,6 @@ createItem
 
 updateItem
 
+deleteItemById
+
 使用之前可以打开jar包查看
